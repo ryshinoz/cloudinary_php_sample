@@ -1,0 +1,10 @@
+{
+    "repositories": [
+    ],
+    "require": {
+          "cloudinary/cloudinary_php": "dev-master"
+    },
+    "config": {
+        "bin-dir" : "bin/"
+    }   
+}
